@@ -4,6 +4,8 @@
   "system": "worldofdarkness",
   "joinTheme": "default",
   "description": "<p>Campagne pour Mage 4ème édition et le monde des Ténèbres</p>",
+  "manifest": "https://raw.githubusercontent.com/tnntwister/foundry-world-maudit-graal/main/world.json",
+  "download": "https://github.com/tnntwister/foundry-world-maudit-graal/archive/refs/heads/main.zip",
   "coreVersion": "12.331",
   "compatibility": {
     "minimum": "12",
