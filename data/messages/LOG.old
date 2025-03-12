@@ -1,0 +1,22 @@
+2025/02/22-15:11:21.462 3354 Recovering log #34
+2025/02/22-15:11:21.476 3354 Delete type=0 #34
+2025/02/22-15:11:21.476 3354 Delete type=3 #32
+2025/02/22-16:51:13.627 4b00 Level-0 table #39: started
+2025/02/22-16:51:13.638 4b00 Level-0 table #39: 847 bytes OK
+2025/02/22-16:51:13.644 4b00 Delete type=0 #37
+2025/02/22-16:51:13.654 4b00 Manual compaction at level-0 from '!messages!Yc3lnImWoxGE4Fxt' @ 72057594037927935 : 1 .. '!messages!Yc3lnImWoxGE4Fxt' @ 0 : 0; will stop at '!messages!Yc3lnImWoxGE4Fxt' @ 32 : 1
+2025/02/22-16:51:13.654 4b00 Compacting 1@0 + 1@1 files
+2025/02/22-16:51:13.667 4b00 Generated table #40@0: 10 keys, 1050 bytes
+2025/02/22-16:51:13.667 4b00 Compacted 1@0 + 1@1 files => 1050 bytes
+2025/02/22-16:51:13.673 4b00 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/22-16:51:13.673 4b00 Delete type=2 #9
+2025/02/22-16:51:13.674 4b00 Delete type=2 #39
+2025/02/22-16:51:13.709 4b00 Manual compaction at level-0 from '!messages!Yc3lnImWoxGE4Fxt' @ 32 : 1 .. '!messages!Yc3lnImWoxGE4Fxt' @ 0 : 0; will stop at (end)
+2025/02/22-16:51:13.709 4b00 Manual compaction at level-1 from '!messages!Yc3lnImWoxGE4Fxt' @ 72057594037927935 : 1 .. '!messages!Yc3lnImWoxGE4Fxt' @ 0 : 0; will stop at '!messages!aLLBVbEbSVg55Njq' @ 26 : 0
+2025/02/22-16:51:13.709 4b00 Compacting 1@1 + 1@2 files
+2025/02/22-16:51:13.716 4b00 Generated table #41@1: 1 keys, 847 bytes
+2025/02/22-16:51:13.716 4b00 Compacted 1@1 + 1@2 files => 847 bytes
+2025/02/22-16:51:13.722 4b00 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/22-16:51:13.722 4b00 Delete type=2 #5
+2025/02/22-16:51:13.722 4b00 Delete type=2 #40
+2025/02/22-16:51:13.762 4b00 Manual compaction at level-1 from '!messages!aLLBVbEbSVg55Njq' @ 26 : 0 .. '!messages!Yc3lnImWoxGE4Fxt' @ 0 : 0; will stop at (end)

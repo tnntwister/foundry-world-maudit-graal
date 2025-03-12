@@ -1,0 +1,16 @@
+{
+  "title": "Mage l'Ascension",
+  "id": "maudit-graal",
+  "system": "worldofdarkness",
+  "joinTheme": "default",
+  "description": "<p>Campagne pour Mage 4ème édition et le monde des Ténèbres</p>",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "4.1.5",
+  "lastPlayed": "Sat Feb 22 2025 16:51:49 GMT+0100 (heure normale d’Europe centrale)",
+  "background": "worlds/maudit-graal/images/Tobias.png",
+  "playtime": 15119
+}

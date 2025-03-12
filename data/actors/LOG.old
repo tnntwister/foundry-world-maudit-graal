@@ -1,0 +1,33 @@
+2025/02/22-15:11:21.423 4ca8 Recovering log #39
+2025/02/22-15:11:21.436 4ca8 Delete type=0 #39
+2025/02/22-15:11:21.436 4ca8 Delete type=3 #37
+2025/02/22-16:04:56.068 4b00 Level-0 table #45: started
+2025/02/22-16:04:56.112 4b00 Level-0 table #45: 1033721 bytes OK
+2025/02/22-16:04:56.118 4b00 Delete type=0 #43
+2025/02/22-16:23:52.158 4b00 Level-0 table #47: started
+2025/02/22-16:23:52.198 4b00 Level-0 table #47: 1116777 bytes OK
+2025/02/22-16:23:52.204 4b00 Delete type=0 #44
+2025/02/22-16:43:42.662 4b00 Level-0 table #49: started
+2025/02/22-16:43:42.708 4b00 Level-0 table #49: 1375300 bytes OK
+2025/02/22-16:43:42.713 4b00 Delete type=0 #46
+2025/02/22-16:51:13.585 4b00 Level-0 table #51: started
+2025/02/22-16:51:13.594 4b00 Level-0 table #51: 126921 bytes OK
+2025/02/22-16:51:13.598 4b00 Delete type=0 #48
+2025/02/22-16:51:13.598 4b00 Manual compaction at level-0 from '!actors!0diZhVZa4YIDviVg' @ 72057594037927935 : 1 .. '!actors.items!z3lZlUL0yj9OM6sj.vwiaG2e9W9P3APuR' @ 0 : 0; will stop at '!actors.items!mvIm2fo66JKr3Vt5.qaPT3z33Izvbqw1f' @ 591 : 1
+2025/02/22-16:51:13.598 4b00 Compacting 3@0 + 1@1 files
+2025/02/22-16:51:13.617 4b00 Generated table #52@0: 67 keys, 133166 bytes
+2025/02/22-16:51:13.617 4b00 Compacted 3@0 + 1@1 files => 133166 bytes
+2025/02/22-16:51:13.619 4b00 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/22-16:51:13.619 4b00 Delete type=2 #45
+2025/02/22-16:51:13.620 4b00 Delete type=2 #47
+2025/02/22-16:51:13.620 4b00 Delete type=2 #49
+2025/02/22-16:51:13.620 4b00 Delete type=2 #51
+2025/02/22-16:51:13.654 4b00 Manual compaction at level-0 from '!actors.items!mvIm2fo66JKr3Vt5.qaPT3z33Izvbqw1f' @ 591 : 1 .. '!actors.items!z3lZlUL0yj9OM6sj.vwiaG2e9W9P3APuR' @ 0 : 0; will stop at (end)
+2025/02/22-16:51:13.674 4b00 Manual compaction at level-1 from '!actors!0diZhVZa4YIDviVg' @ 72057594037927935 : 1 .. '!actors.items!z3lZlUL0yj9OM6sj.vwiaG2e9W9P3APuR' @ 0 : 0; will stop at '!actors.items!z3lZlUL0yj9OM6sj.vwiaG2e9W9P3APuR' @ 233 : 1
+2025/02/22-16:51:13.674 4b00 Compacting 1@1 + 1@2 files
+2025/02/22-16:51:13.683 4b00 Generated table #53@1: 66 keys, 137717 bytes
+2025/02/22-16:51:13.683 4b00 Compacted 1@1 + 1@2 files => 137717 bytes
+2025/02/22-16:51:13.686 4b00 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/22-16:51:13.686 4b00 Delete type=2 #41
+2025/02/22-16:51:13.686 4b00 Delete type=2 #52
+2025/02/22-16:51:13.709 4b00 Manual compaction at level-1 from '!actors.items!z3lZlUL0yj9OM6sj.vwiaG2e9W9P3APuR' @ 233 : 1 .. '!actors.items!z3lZlUL0yj9OM6sj.vwiaG2e9W9P3APuR' @ 0 : 0; will stop at (end)
